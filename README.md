@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @penguinKali
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning pentesting on TryHackMe
+- 📫 How to reach me : penguinKali@protonmail.com
